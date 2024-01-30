@@ -1,4 +1,5 @@
 ---
-title: Blog da Renata
+permalink: /
+layout: home
+title: Olá!
 ---
-
