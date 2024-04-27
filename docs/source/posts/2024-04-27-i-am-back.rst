@@ -1,0 +1,34 @@
+Estou de volta!
+===============
+
+**Data**: 27/04/2024 | **Tags**: Miscelânia
+
+**...**
+
+Nem acredito que finalmente estamos de volta nesta página! Não necessariamente no mesmo 
+*link*, mas neste mesmo *bat*-canal.
+
+Eu precisava escrever este *post* para comemorar minha demorada vitória em colocar essa página
+no ar usando uma ação do GitHub, sem aquele template horroroso do Jakyll. Foram muitos *commits* 
+e *merges* para sequer sair do lugar. Ainda cometi um erro *lindíssimo* no qual apaguei a 
+página anterior e de raiva, apaguei o projeto. Olhando em restrospecto agora, foi algo 
+extremamente estúpido, porque tinha alguns *posts* escritos e nunca publicados |:clown:|
+
+Paciência, vou pagar o preço pela inexperiência.
+
+Se tem algo positivo, é posso finalmente comemorar o novo layout do *site* que está mais próximo 
+do que eu imaginava. Posso colocar mais fotos e imagens do jeito que eu queria, e trabalhar mais 
+com arquivos .\*rst, que é um formato que eu uso mais no dia-a-dia que o markdown.
+
+Obviamente não garanto uma cadência mínima de postagens, mas vou tentar aparecer aqui nem que seja
+para registrar as leituras do mês e algumas coisas da evolução do Didizinho. Os *posts* anteriores
+foram reciclados no novo formato, então é possível que nas próximas tentativas eu busque maneiras
+de mudar o cabeçalho, formato, entre outras coisas. Um dos motivos que estou usando o
+`PyData Theme <https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html>`_ é que uso ele
+no trabalho, mas queria me familiarizar melhor com ele porque eu apanho demais sempre que vou
+modificar configurações nele. 
+
+Vou ficando por aqui, mas repito, é muito, muito bom estar de volta, agora nesse novo *layout*. |:wave:|
+
+P.S.: Não custa lembrar, mas se quiser interagir comigo, é só abrir um *issue* na
+`nossa página <https://github.com/renataakemii/renataakemii.github.io/issues>`_ do *GitHub*, viu?
