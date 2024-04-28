@@ -27,7 +27,12 @@ author = "Renata Imai"
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ["sphinx.ext.githubpages", "sphinxemoji.sphinxemoji"]
+extensions = [
+    "sphinx.ext.githubpages",
+    "sphinx.ext.intersphinx",
+    "sphinxemoji.sphinxemoji",
+    "ablog",
+]
 
 # Add any paths that contain templates here, relative to this directory.
 # templates_path = ['_templates']
@@ -57,7 +62,7 @@ html_theme = "pydata_sphinx_theme"
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+html_static_path = ["_static"]
 html_css_files = ["custom.css"]
 
 html_theme_options = {
@@ -67,7 +72,29 @@ html_theme_options = {
     "navbar_start": ["navbar-logo"],
     "navbar_align": "left",
     # "announcement": "Confira nossa <a href='https://renataakemii.github.io/posts/2024-03-12-um-breve-desabafo.html'>última publicação!</a>",
+    "secondary_sidebar_items": ["page-toc"],
+    "pygment_dark_style": "monokai",
+    "pygment_light_style": "default",
 }
 
-# The name for this set of Sphinx documents.  If None, it defaults to
+# html_sidebars = {
+#     "build/html/": [
+#         "posts/postcard.html",
+#         "posts/recentposts.html",
+#         "posts/tagcloud.html",
+#         "posts/archives.html",
+#     ],
+# }
+
+# The name for this set of Sphinx documents.
 html_title = "Chega pra conversar"
+
+# -- Ablog options -----------------------------------------------------------
+
+# blog_title = "Chega pra conversar"
+# blog_path = "posts"
+# blog_baseurl = "https://renataakemii.github.io"
+# blog_feed_fulltext = True
+# blog_feed_archives = True
+# fontawesome_included = True
+# post_redirect_refresh = 1
