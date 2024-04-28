@@ -1,7 +1,11 @@
 Leituras de Abril
 =================
 
-.. post:: Apr 27, 2024
+**Data**: 28/04/2024 | **Tags**: Leitura | Opinião
+
+**...**
+
+.. post:: Apr 28, 2024
    :tags: leitura, opiniao
 
 Confesso que abril não foi um mês de muitas leituras. Gastei a maior parte do mês tentando
@@ -19,7 +23,13 @@ São Paulo: o planejamento da desigualdade - *Raquel Rolnik*
 -----------------------------------------------------------
 **Nota:** ⭐⭐⭐⭐🧦
 
-Vou começar esse diferente
+Gosto do trabalho da professora Raquel Rolnik desde que foi apresentada a ele pela minha amiga,
+há muitos anos, enquanto ainda estávamos na graduação. Neste livro que não ganhou 5 estrelas por
+ser curto (queria mais discussão, talvez), Raquel faz uma breve análise de como as decisões 
+urbanísticas acentuam as grandes desigualdades sociais existentes na capital paulista desde o seu 
+surgimento como vila de São Paulo dos Campos de Piratininga até a megalópole no século XXI. Para
+quem se interessa por urbanismo, história e pela cidade de São Paulo, é um livro super interessante 
+de ser lido, e que ajuda a contextualizar como São Paulo chegou da forma que se encontra hoje.
 
 Quem vai fazer essa comida? - *Bela Gil*
 ----------------------------------------
@@ -30,11 +40,11 @@ apresentar e discutir um pouco mais o assunto. Apesar do título, *Quem vai faze
 não busca só responder a essa pergunta, mas de tratar da dimensão do trabalho doméstico não
 remunerado, sobre discutir questões de raça, gênero e classe. Bela também entra na questão
 ambiental, que acredito ser uma de suas bandeiras mais fortes, assim como a tecnologia pode
-contribuir dentro dessa salada mista toda. Senti um pouco de falta de profundidade em algumas
+contribuir dentro dessa salada mista toda. Senti falta de um pouco mais de profundidade em algumas
 discussões sobre trabalho porque as referências eram sempre as mesmas, mas como forma de plantar
-uma pulga atrás da nossa orelha é um excelente livro. A coisa foi tão séria que eu até comentei
-com meu marido que o livro "verbalizava" várias das questões que tem me incomodado profundamente
-ao longo das últimas semanas. Vamos trabalhar para melhorar isso, obviamente.
+uma pulga atrás da nossa orelha é um bom livro. A coisa foi tão séria que eu até comentei
+com meu marido que o livro transcrevia várias das questões que tem me incomodado profundamente
+ao longo das últimas semanas.
 
 Murder at the altar - *Veronica Heley*
 --------------------------------------
@@ -42,14 +52,21 @@ Murder at the altar - *Veronica Heley*
 
 Este livro está disponível na loja do *Kindle Unlimited* e prometia ser algo na pegada *cozy*
 *mystery* também (se eu não tivesse apagado o rascunho da publicação de leituras de março,
-vocês saberiam mais facilmente o que é isso). Apesar de falarem que a publicação do livro é
-2023, descobri que foi a publicação do *e-book*! O livro mesmo é do ano 2000, o que explica
-a personagem usando Windows 98 durante a história.
+vocês saberiam mais facilmente o que é isso). O livro é do ano 2000, o que explica a personagem 
+usando Windows 98 durante a história, apesar da publicação do *e-book* em 2023! 
 
 A história se passa em uma pequena cidade inglesa, com Ellie que acaba de ficar viúva. Ela
 mora ao lado de uma igreja e, num certo dia, uma de suas vizinhas entra correndo no seu 
 quintal e bate à porta porque acabara de encontrar um corpo próximo ao altar da igreja (o
 título é bem auto-explicativo né?). Depois disso, Ellie começa a investigar o assassinato, 
 uma vez que se passaram vários acontecimentos em circunstâncias suspeitas. Nisso ela ainda
-tem que lidar com o luto, a filha interesseira, a mesquinha da tia do marido, enfim. Tinha
-tudo pra ser bom mas achei cansativo, por isso larguei com 2/3 do livro lido. Perdi a paciência.
+tem que lidar com o luto, a filha interesseira, a tia mesquinha do falecido marido, enfim. Tinha
+tudo pra ser bom mas achei cansativo, por isso larguei com 2/3 do livro lido.
+
+Estou com outras leituras em andamento e tenho boas expectativas de que em maio tenhamos algumas
+adições a nossa lista de leituras.
+
+Você já sabe, mas não custa lembrar que se quiser interagir comigo, é só abrir um *issue* na
+`nossa página <https://github.com/renataakemii/renataakemii.github.io/issues>`_ do *GitHub*, viu?
+
+Por hoje eu fico por aqui e nos vemos em breve! |:wave:|
