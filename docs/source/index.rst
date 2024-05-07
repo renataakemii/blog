@@ -15,4 +15,5 @@ Esta página está hospedada no GitHub então se quiser falar comigo, abra um *i
    :hidden:
 
    posts/readme
+   developing/readme
    aboutme
