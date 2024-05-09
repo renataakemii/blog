@@ -29,7 +29,8 @@ permanecem em um cantinho quentinho do meu coração.
 Nisso tudo, me vem à mente uma reportagem muito interessante da equipe do *O Joio e o Trigo* que fala
 sobre como corporações como a Nestlé mudou o paladar do brasileiro, e consequentemente algumas das
 receitas mais famosas do dia-a-dia brasileiro, como o brigadeiro e o pudim. Sim, antigamente, eles
-não levavam leite condensado como você bem pode imaginar. Vou deixar o [link](https://ojoioeotrigo.com.br/2021/04/como-a-nestle-se-apropriou-das-receitas-brasileiras-ou-de-como-viramos-o-pais-do-leite-condensado/)
+não levavam leite condensado como você bem pode imaginar. Vou deixar o 
+`link <https://ojoioeotrigo.com.br/2021/04/como-a-nestle-se-apropriou-das-receitas-brasileiras-ou-de-como-viramos-o-pais-do-leite-condensado/>`_)
 dessa reportagem por aqui.
 
 Bem, vou me aquietar por agora, porque esse *post* já está uma semana atrasado e eu perdi um pouco

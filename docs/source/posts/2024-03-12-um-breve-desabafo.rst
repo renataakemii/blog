@@ -46,12 +46,12 @@ quase 30 anos para me dar conta que até eu sou afetada por ele. Veja, como usei
 só depois que eu parei é que comecei a notar mudanças mais intensas de humor (ou como gosto de pensar, estado
 mental).
 
-Pois bem, o link para o *post* sobre a roda da vida está 
-[aqui](https://vidaorganizada.com/2020/09/16/download-roda-da-vida/), 
-a *live* sobre como criar uma lista de projetos para 2024 está
-[aqui](https://www.youtube.com/watch?v=9bv-GRVLOII&t=1393s) e por último 
-a *live* sobre produtividade cíclica para mulheres e pessoas que menstruam está 
-[aqui](https://www.youtube.com/watch?v=lY9BAJT6VsM&t=1483s).
+Pois bem, o link para o *post* sobre a 
+`roda da vida <https://vidaorganizada.com/2020/09/16/download-roda-da-vida/>`_, 
+a *live* sobre 
+`como criar uma lista de projetos para 2024 <https://www.youtube.com/watch?v=9bv-GRVLOII&t=1393s>`_ 
+e por último a *live* sobre 
+`produtividade cíclica para mulheres e pessoas que menstruam <https://www.youtube.com/watch?v=lY9BAJT6VsM&t=1483s>`_.
 
 A Thais tem um conteúdo muito precioso e que merece a propaganda toda por aqui, até porque é uma das poucas
 pessoas que trata de produtividade sem muitos gatilhos negativos.
@@ -59,4 +59,4 @@ pessoas que trata de produtividade sem muitos gatilhos negativos.
 Enfim, fico por aqui! Até a próxima.
 
 P.S.: Não custa lembrar, mas se quiser interagir comigo, é só abrir um *issue* na
-[nossa página](https://github.com/renataakemii/blog/issues) do *GitHub*, viu?
+`nossa página <https://github.com/renataakemii/blog/issues>`_ do *GitHub*, viu?

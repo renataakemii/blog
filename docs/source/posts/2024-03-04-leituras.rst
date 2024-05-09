@@ -76,4 +76,4 @@ revezar eles com *Nosey Parker* ou se termino der ler os livros já publicados. 
 (também conhecidos como cursos) nos quais me inscrevi e requerem alguma dedicação.
 
 Você já sabe, mas não custa relembrar! Quer falar comigo sobre este ou os demais *posts*? Abre um 
-[*issue*](https://github.com/renataakemii/blog/issues) aqui no *GitHub*. Até a próxima |:wave:| |:smile:|
+`issue <https://github.com/renataakemii/blog/issues>`_ aqui no *GitHub*. Até a próxima |:wave:| |:smile:|
