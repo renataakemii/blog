@@ -1,7 +1,7 @@
 I, Developer
 ============
 
-|:flag_us:| For all those who are unaware of what do I do to pay my bill, I work at a consultancy
+|:flag_us:| For all those who are unaware of what do I do to pay my bills, I work at a consultancy
 as data analyst and sometimes as a software developer. In this section, which is probably going
 to be written in English, I want to share some developing and analysis thoughts with you!
 
