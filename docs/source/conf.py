@@ -32,6 +32,7 @@ extensions = [
     "sphinx.ext.intersphinx",
     "sphinxemoji.sphinxemoji",
     "ablog",
+    "sphinx_gallery.gen_gallery",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -98,3 +99,10 @@ html_title = "Chega pra conversar"
 # blog_feed_archives = True
 # fontawesome_included = True
 # post_redirect_refresh = 1
+
+# -- sphinx-gallery options --------------------------------------------------
+
+sphinx_gallery_conf = {
+     'examples_dirs': 'developing',   # path to your example scripts
+     'gallery_dirs': 'auto_examples',  # path to where to save gallery generated output
+}
