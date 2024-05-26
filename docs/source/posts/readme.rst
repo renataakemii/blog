@@ -4,6 +4,7 @@ Publicações
 .. toctree::
    :maxdepth: 1
 
+   2024-05-22-oh-may
    2024-04-29-about-april
    2024-04-28-leituras
    2024-04-27-i-am-back

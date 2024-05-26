@@ -1,5 +1,5 @@
-Maio, maio
-==========
+Até logo, Maio
+==============
 
 **Data**: 26/05/2024 | **Tags**: Miscelânia
 
@@ -10,7 +10,7 @@ Passamos por uma semana terrível com diarreia 24/7 e muito mal-estar, mas pouco
 estamos colocando a casa em ordem. O foco das próximas semanas/meses deve ser na saúde, que anda um pouco
 negligenciada.
 
-O que gostaria de compartilhar de pontos altos do mês com vocês:
+O que gostaria de compartilhar de destaques do mês:
 
 #. **Avaliação neuropsicológica**: posso ter demorado para encontrar um profissional adequado para fazer
    a minha tão esperada avaliação neuropsicológica, mas finalmente foi e tá indo. Confesso que o processo
@@ -19,16 +19,65 @@ O que gostaria de compartilhar de pontos altos do mês com vocês:
    parecia meio terrível, como se fosse uma máquina problemática, mas hoje já estou encarando mais numa
    boa.
 
-#. **Tem Umami**: saímos para comemorar meu aniversário no *Bar da Dona Onça*, um restaurante super badalado
-   no Edifício Copan, mas nos interessamos mesmo pela sorveteria com aparência despretenciosa que ficava ao
-   lado. Como já ouvimos falar do local, decidimos comer a sobremesa lá. Pois bem, acerto maior não poderia
-   ter. Nossa casquinha de baunilha com farofa de noz pecã foi tanto o melhor sorvete de baunilha que já
-   comemos, quanto a melhor casquinha. Meu marido ficou encantado com o sorvete. De fato, valeu muito a pena.
-   Com relação ao *Bar da Dona Onça*, nem chegamos a almoçar lá. Depois de quarenta minutos de espera na fila,
+#. **Tem Umami**: saímos para comemorar meu aniversário com uma certa antecedência no *Bar da Dona Onça*, 
+   um restaurante super badalado
+   no Edifício Copan, mas nos interessamos mesmo pela sorveteria de aparência despretenciosa que ficava ao
+   lado. Como já ouvimos falar do local, decidimos comer a sobremesa lá. Pois bem, acertamos em cheio. 
+   Nossa casquinha de baunilha com farofa de noz pecã foi tanto o melhor sorvete de baunilha que já
+   comemos, quanto a melhor casquinha. Meu marido ficou encantado com o conjunto da obra. De fato, valeu muito a pena.
+   Com relação ao *Bar da Dona Onça*, nem almoçamos lá. Depois de quarenta minutos na fila de espera,
    com o tempo chuvoso e frio que São Paulo nos presenteou este final de semana, resolvemos almoçar em outro
-   lugar. A espera possibilitou que víssemos o cardápio e descobríssemos que nada lá nos chamava muito a
-   atenção.
+   lugar. Todo esse tempo de espera possibilitou que víssemos o cardápio e descobríssemos que nada lá nos chamava muito a
+   atenção, apesar da comida aparentar ser muito saborosa.
 
-.. Acho que dá pra colocar minha fotinho com o sorvete rs
+   .. figure:: ../images/20240526-foto-renata.jpeg
 
-#. 
+      Oi, essa sou eu, com um sorvete lindo & gostoso & bem servido
+
+#. **Ambientes virtuais**: na minha curta carreira enquanto pessoa desenvolvedora, já passei por muitos 
+   perrengues de pessoa autoditata. Um deles está sempre relacionado à instalação de programas que só funcionam
+   bem em outros sistemas operacionais senão o *Windows* em uma máquina com sistema operacional *Windows*.
+   Um ambiente virtual permite o gerenciamento de dependências e o "isolamento" do ambiente de trabalho.
+   E isso facilita muito o trabalho de não ficarmos instalando/desistalando dependências sempre que mudamos de
+   projeto ou de contexto. É possível ter um ambiente para cada uma delas. E recentemente tenho trabalhado muito
+   com o ambiente virtual do Linux dentro da minha máquina. Isso tem me salvado muito tempo e dor de cabeça.
+   Juro, tem três coisas que uso sempre no meu dia-a-dia que eu queimei a língua de já ter reclamado um dia:
+   o ambiente virtual, o Linux e o Docker. |:joy:|
+
+#. **Saneamento financeiro** (|:moneybag:|): Apesar do défict de saúde esse mês, tirei vários dias para sanear as 
+   minhas contas. Eu finalmente completei o valor que havia estipulado como Reserva de Emergência (RE) há alguns anos, 
+   mas não me dou por satisfeita porque um dos meus sonhos de vida é conseguir aposentar. Do jeito que as coisas estão, 
+   preciso trabalhar mais para realizar este sonho |:joy:| Então em ações de saneamento financeiro, o que eu fiz foi:
+
+   * Recalcular a RE incluíndo o Didi (quando a meta foi traçada ele ainda não existia, né?), reajustando os valores
+     de mercado e contas imprescindíveis como aluguel, condomínio, impostos e remédios de uso contínuo;
+   * Cancelar assinaturas desnecessárias;
+   * Concentrar todos os gastos em um único cartão e cabeçaolocar a mesma data de vencimento para todas os cartões;
+   * Analisar as faturas e pra onde o dinheiro está indo.
+
+   Algumas coisas dessa etapa ainda não ficaram prontas, mas já consigo ter um norte. Vou enxugar alguns gastos e
+   já pensar em estratégias para os próximos meses.
+
+#. **Didizinho**: o malandro mais amado aqui de casa! Se perdesse na rua, nunca mais achava, porque ele
+   cumprimenta literalmente T.O.D.O.S. os seres humanos que vê, especialmente mulheres, em busca de um 
+   carinho. Ele não é lá muito fiel a nós, e teria facilmente uma segunda família. Agora que ele tem
+   ido à creche, temos um dia e meio de sossego durante a semana, mas tem sido difícil atender a toda as
+   solicitações de carinho que ele nos faz ao longo do dia quando estamos trabalhando. Ontem fui vítima da famosa 
+   desculpa do cachorro comendo meu documento e perdi minha receita para compra de medicação controlada |:joy:| 
+   até agora não consegui ficar brava com ele, apesar de que isso vai me dar um trabalhão agora |:smiling_face_with_tear:|
+
+   .. figure:: ../images/20240526-didi-comendo-documento.jpeg
+
+      A (triste) cena de um crime, do ponto de vista humano
+
+#. **Análise de dados**: eu amo análise de dados e é parte do que eu faço ao longo dos meus dias. Durante o próximo
+   mês, a intenção é começar uma nova aba aqui no *blog* para abordar um pouco desse tema de análise e visualização de dados 
+   e tópicos correlatos. Acho que vai ser interessante. Estou bem animada. Isso tudo nasceu depois de ter a inscrição
+   não homologada para um *hackaton* de dados patrocinado pelo Ministério das Cidades. Não foi dessa vez, mas já estou
+   me preparando para termos a inscrição aceita numa próxima!
+
+Bem, neste mês, ficamos por aqui. Sei que o mês ainda tem cinco dias, mas acho que os principais destaques estão
+nessa seção. O *post* com as leituras do mês sai daqui alguns dias. Ele ainda nem começou a ser escrito |:joy:|
+
+Eu me despeço de vocês com o aviso de sempre: este *blog* é uma página do *GitHub*! Você pode vir conversar comigo
+abrindo um *issue* aqui na `nossa página <https://github.com/renataakemii/renataakemii.github.io/issues>`_. |:wave:|
