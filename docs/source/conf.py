@@ -32,6 +32,7 @@ extensions = [
     "sphinx.ext.intersphinx",
     "sphinxemoji.sphinxemoji",
     "ablog",
+    "sphinx.ext.intersphinx",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
