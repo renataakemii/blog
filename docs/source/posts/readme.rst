@@ -4,6 +4,7 @@ Publicações
 .. toctree::
    :maxdepth: 1
 
+   2024-07-07-me-desculpe-por-junho
    2024-05-22-oh-may
    2024-05-24-cozy-mysteries
    2024-04-29-about-april
