@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Chega pra conversar"
+project = "O blog da Renata"
 copyright = "2024, Renata Imai"
 author = "Renata Imai"
 
@@ -87,7 +87,7 @@ html_theme_options = {
 # }
 
 # The name for this set of Sphinx documents.
-html_title = "Chega pra conversar"
+html_title = "O blog da Renata"
 
 # -- Ablog options -----------------------------------------------------------
 
