@@ -1,12 +1,13 @@
 Leituras de Abril
 =================
 
-**Data**: 28/04/2024 | **Tags**: Leitura | Opinião
+Data: 28/04/2024 
+
+.. tags::
+
+   Leitura, Opinião
 
 **...**
-
-.. post:: Apr 28, 2024
-   :tags: leitura, opiniao
 
 Confesso que abril não foi um mês de muitas leituras. Gastei a maior parte do mês tentando
 me manter viva e realizando o mínimo de atividades possível. Inclusive, foi necessário uma

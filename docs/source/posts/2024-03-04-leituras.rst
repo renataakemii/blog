@@ -1,8 +1,11 @@
 Leituras de Fevereiro
 =====================
 
-**Data**: 04/03/2024
-**Tags**: Leitura | Opinião
+Data: 04/03/2024
+
+.. tags:: 
+
+    Leitura, Opinião
 
 **...**
 

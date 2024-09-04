@@ -1,8 +1,11 @@
 Roda da vida
 ============
 
-**Data**: 14/03/2024
-**Tags**: Opinião
+Data: 14/03/2024
+
+.. tags:: 
+
+    Opinião
 
 **...**
 

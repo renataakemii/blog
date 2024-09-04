@@ -1,7 +1,11 @@
 Arrivederci Aprile
 ==================
 
-**Data**: 29/04/2024 | **Tags**: Miscelânia
+Data: 29/04/2024
+
+.. tags:: 
+
+   Miscelânia
 
 **...**
 

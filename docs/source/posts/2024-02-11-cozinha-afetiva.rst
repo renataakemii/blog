@@ -1,8 +1,11 @@
 Cozinha Afetiva
 ===============
 
-**Data**: 11/02/2024
-**Tags**: Miscelânia
+Data: 11/02/2024
+
+.. tags:: 
+
+    Miscelânia
 
 **...**
 

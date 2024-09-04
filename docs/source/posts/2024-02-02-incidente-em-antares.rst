@@ -1,8 +1,11 @@
 Incidente em Antares
 ====================
 
-**Data**: 02/02/2024
-**Tags**: Leitura
+Data: 02/02/2024
+
+.. tags:: 
+
+    Leitura
 
 **...**
 > Nosso primeiro livro na categoria "Retorno de Saturno" 🪐

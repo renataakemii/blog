@@ -1,8 +1,11 @@
 Tudo na vida é questão de aprendizado
 =====================================
 
-**Data**: 13/02/2024
-**Tags**: Miscelânia
+Data: 13/02/2024
+
+.. tags:: 
+
+    Miscelânia
 
 **...**
 

@@ -1,7 +1,11 @@
 Estou de volta!
 ===============
 
-**Data**: 27/04/2024 | **Tags**: Miscelânia
+Data: 27/04/2024
+
+.. tags:: 
+
+    Miscelânia
 
 **...**
 

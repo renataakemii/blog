@@ -1,7 +1,11 @@
 Pardonne-moi pour juin
 ======================
 
-**Data**: 07/07/2024 | **Tags**: Miscelânia
+Data: 07/07/2024
+
+.. tags:: 
+
+   Miscelânia
 
 **...**
 

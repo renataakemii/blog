@@ -25,3 +25,4 @@ Esta página está hospedada no GitHub então se quiser falar comigo, abra um *i
 
    posts/readme
    aboutme
+   _tags/tagsindex

@@ -31,7 +31,7 @@ extensions = [
     "sphinx.ext.githubpages",
     "sphinx.ext.intersphinx",
     "sphinxemoji.sphinxemoji",
-    "ablog",
+    "sphinx_tags",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -89,12 +89,10 @@ html_theme_options = {
 # The name for this set of Sphinx documents.
 html_title = "O blog da Renata"
 
-# -- Ablog options -----------------------------------------------------------
+# -- sphinx-tags options -----------------------------------------------------
 
-# blog_title = "Chega pra conversar"
-# blog_path = "posts"
-# blog_baseurl = "https://renataakemii.github.io"
-# blog_feed_fulltext = True
-# blog_feed_archives = True
-# fontawesome_included = True
-# post_redirect_refresh = 1
+tags_create_tags = True
+
+tags_overview_title = "Site tags"
+
+tags_intro_text = "**Tags**"

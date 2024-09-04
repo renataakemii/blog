@@ -1,7 +1,11 @@
 Cozy mysteries: minha descoberta mais recente
 =============================================
 
-**Data**: 24/05/2024 | **Tags**: Leitura
+Data: 24/05/2024
+
+.. tags:: 
+
+   Leitura
 
 **...**
 

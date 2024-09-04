@@ -1,8 +1,11 @@
 Leituras de Janeiro
 ===================
 
-**Data**: 30/01/2024
-**Tags**: Leitura | Opinião
+Data: 30/01/2024
+
+.. tags:: 
+    
+    Leitura, Opinião
 
 **...**
 

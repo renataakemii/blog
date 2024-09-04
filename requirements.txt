@@ -1,4 +1,4 @@
 sphinx
 pydata-sphinx-theme
 sphinxemoji
-ablog
+sphinx-tags

@@ -1,8 +1,11 @@
 Oi pra você também, fevereiro
 =============================
 
-**Data**: 01/02/2024
-**Tags**: Miscelânia
+Data: 01/02/2024
+
+.. tags:: 
+    
+    Miscelânia
 
 **...**
 

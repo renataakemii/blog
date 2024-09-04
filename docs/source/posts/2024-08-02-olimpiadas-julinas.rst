@@ -1,7 +1,11 @@
 Olimpíadas julinas
 ==================
 
-**Data**: 02/08/2024 | **Tags**: Miscelânia
+Data: 02/08/2024
+
+.. tags:: 
+
+   Miscelânia
 
 **...**
 

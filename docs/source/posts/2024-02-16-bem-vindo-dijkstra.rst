@@ -1,8 +1,11 @@
 Bem-vindo, Dijkstra
 ===================
 
-**Data**: 16/02/2024
-**Tags**: Pet
+Data: 16/02/2024
+
+.. tags:: 
+
+    Pet
 
 **...**
 
