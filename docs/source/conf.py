@@ -21,7 +21,6 @@ project = "O blog da Renata"
 copyright = "2024, Renata Imai"
 author = "Renata Imai"
 
-
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -50,7 +49,6 @@ language = "en"
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
-
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -92,7 +90,6 @@ html_title = "O blog da Renata"
 # -- sphinx-tags options -----------------------------------------------------
 
 tags_create_tags = True
-
-tags_overview_title = "Site tags"
-
-tags_intro_text = "**Tags**"
+tags_overview_title = "Navegue por assunto"
+tags_page_header = "Outras publicações sobre esse assunto"
+tags_page_title = "Tag"

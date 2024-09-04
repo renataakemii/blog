@@ -3,10 +3,6 @@ Leituras de Janeiro
 
 Data: 30/01/2024
 
-.. tags:: 
-    
-    Leitura, Opinião
-
 **...**
 
 Já na onda de acabar esse janeiro mês de desgosto, vou registrar três leituras legais que terminei durante este mês.
@@ -91,3 +87,9 @@ de clichês (de um jeito pejorativo) e é meio bobo, parece até mal escrito e c
 Algum comentário? Sugestão? Abre um *issue* na página do blog, afinal de contas, isso é uma página do GitHub.
 
 Até a próxima, Renata 🐶
+
+**...**
+
+.. tags:: 
+    
+    Leitura, Opinião

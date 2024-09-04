@@ -3,12 +3,9 @@ Incidente em Antares
 
 Data: 02/02/2024
 
-.. tags:: 
-
-    Leitura
-
 **...**
-> Nosso primeiro livro na categoria "Retorno de Saturno" 🪐
+
+    Nosso primeiro livro na categoria "Retorno de Saturno" 🪐
 
 Eu sei que a obra-prima de Érico Veríssimo é a trilogia *O tempo e o vento*, mas não queria
 deixar de registrar um comentário sobre *Incidente em Antares*, escrito em 1971 (!!) em plena
@@ -50,3 +47,9 @@ Assim, sua nota recalculada pode ser ⭐⭐⭐⭐⭐.
 Se quiser conversar mais sobre o livro, você já sabe: abre um *issue* na página.
 
 Até a próxima 🐶
+
+**..**
+
+.. tags:: 
+
+    Leitura
