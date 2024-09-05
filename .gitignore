@@ -1,0 +1,5 @@
+.venv
+.DS_Store
+sg_execution_times.rst
+docs/build
+docs/source/_tags

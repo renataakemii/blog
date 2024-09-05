@@ -4,6 +4,7 @@ Publicações
 .. toctree::
    :maxdepth: 1
 
+   2024-09-04-de-cara-nova
    2024-08-02-olimpiadas-julinas
    2024-07-07-me-desculpe-por-junho
    2024-05-22-oh-may

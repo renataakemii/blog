@@ -21,7 +21,6 @@ project = "O blog da Renata"
 copyright = "2024, Renata Imai"
 author = "Renata Imai"
 
-
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -31,7 +30,8 @@ extensions = [
     "sphinx.ext.githubpages",
     "sphinx.ext.intersphinx",
     "sphinxemoji.sphinxemoji",
-    "ablog",
+    "sphinx_tags",
+    "sphinxnotes.strike"
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -50,7 +50,6 @@ language = "en"
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
-
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -89,12 +88,9 @@ html_theme_options = {
 # The name for this set of Sphinx documents.
 html_title = "O blog da Renata"
 
-# -- Ablog options -----------------------------------------------------------
+# -- sphinx-tags options -----------------------------------------------------
 
-# blog_title = "Chega pra conversar"
-# blog_path = "posts"
-# blog_baseurl = "https://renataakemii.github.io"
-# blog_feed_fulltext = True
-# blog_feed_archives = True
-# fontawesome_included = True
-# post_redirect_refresh = 1
+tags_create_tags = True
+tags_overview_title = "Navegue por assunto"
+tags_page_header = "Outras publicações sobre esse assunto"
+tags_page_title = "Tag"

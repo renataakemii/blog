@@ -1,8 +1,7 @@
 Oi pra você também, fevereiro
 =============================
 
-**Data**: 01/02/2024
-**Tags**: Miscelânia
+Publicado em: 01/02/2024
 
 **...**
 
@@ -25,3 +24,9 @@ tivemos que sobreviver no ano anterior.
 E você, algum plano, alguma expectativa para fevereiro? Estou bem confiante de que este mês vai ser muito bom.
 
 Fique a vontade para interagir comigo. É só abrir um *issue* na nossa página. Até a próxima 👋
+
+**..**
+
+.. tags:: 
+    
+    Empolgação de começo de mês

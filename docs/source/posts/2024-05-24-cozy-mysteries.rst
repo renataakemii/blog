@@ -1,7 +1,7 @@
 Cozy mysteries: minha descoberta mais recente
 =============================================
 
-**Data**: 24/05/2024 | **Tags**: Leitura
+Publicado em: 24/05/2024
 
 **...**
 
@@ -45,3 +45,9 @@ canso de nenhum dos assuntos.
 Eu fico por aqui, e você já sabe, este blog é uma página do *GitHub* e você pode abrir um 
 `issue <https://github.com/renataakemii/renataakemii.github.io/issues>`_ e vir conversar comigo! 
 Fique à vontade! Até a próxima |:wave:|
+
+*...*
+
+.. tags:: 
+
+   Leituras

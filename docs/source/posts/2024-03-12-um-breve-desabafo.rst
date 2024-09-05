@@ -1,8 +1,7 @@
 Roda da vida
 ============
 
-**Data**: 14/03/2024
-**Tags**: Opinião
+Publicado em: 14/03/2024
 
 **...**
 
@@ -60,3 +59,9 @@ Enfim, fico por aqui! Até a próxima.
 
 P.S.: Não custa lembrar, mas se quiser interagir comigo, é só abrir um *issue* na
 `nossa página <https://github.com/renataakemii/blog/issues>`_ do *GitHub*, viu?
+
+*...*
+
+.. tags:: 
+
+    Opinião

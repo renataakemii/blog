@@ -1,14 +1,13 @@
 Leituras de Fevereiro
 =====================
 
-**Data**: 04/03/2024
-**Tags**: Leitura | Opinião
+Publicado em: 04/03/2024
 
 **...**
 
-> *As leituras de fevereiro vão ser registradas em março?*
-> 
-> *SIM!* <s>Eu só não perdi minha cabeça nos últimos dias porque ela ainda está muito bem presa sobre meu pescoço</s>
+    *As leituras de fevereiro vão ser registradas em março?*
+     
+    *SIM!* :strike:`Eu só não perdi minha cabeça nos últimos dias porque ela ainda está muito bem presa sobre meu pescoço`
 
 Finalizado este começo dramático, minhas leituras de fevereiro não tiveram nada de especial.
 Todas elas se encontram na categoria de livros do tipo *feel-good* (pra se sentir bem). 
@@ -77,3 +76,9 @@ revezar eles com *Nosey Parker* ou se termino der ler os livros já publicados. 
 
 Você já sabe, mas não custa relembrar! Quer falar comigo sobre este ou os demais *posts*? Abre um 
 `issue <https://github.com/renataakemii/blog/issues>`_ aqui no *GitHub*. Até a próxima |:wave:| |:smile:|
+
+*...*
+
+.. tags:: 
+
+    Leituras

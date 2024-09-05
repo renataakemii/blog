@@ -1,8 +1,7 @@
 Leituras de Janeiro
 ===================
 
-**Data**: 30/01/2024
-**Tags**: Leitura | Opinião
+Publicado em: 30/01/2024
 
 **...**
 
@@ -88,3 +87,9 @@ de clichês (de um jeito pejorativo) e é meio bobo, parece até mal escrito e c
 Algum comentário? Sugestão? Abre um *issue* na página do blog, afinal de contas, isso é uma página do GitHub.
 
 Até a próxima, Renata 🐶
+
+**...**
+
+.. tags:: 
+    
+    Leituras
