@@ -5,11 +5,11 @@ Publicado em: 04/09/2024
 
 **...**
 
-    *Não sei dizer o que mudou // mas nada está igual*
+    *Não sei dizer o que mudou, mas nada está igual*
 
-Primeiramente, eu gostaria de ter alguma referência melhor para mudanças sutis que podem não
+Eu gostaria de ter alguma referência melhor para mudanças sutis que podem não
 despertar nada à primeira vista, mas infelizmente meu repertório anda um pouco limitado hoje.
-Mas este *blog* está com pequenas mudanças visuais que podem facilitar sua navegação pelas
+A parte boa é que este *blog* está com pequenas mudanças visuais que podem facilitar sua navegação pelas
 nossas páginas.
 
 A primeira mudança, e a mais boba de todas, é que eu mudei o texto que acompanha a data de 
