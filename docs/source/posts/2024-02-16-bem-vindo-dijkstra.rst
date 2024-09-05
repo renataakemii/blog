@@ -1,11 +1,7 @@
 Bem-vindo, Dijkstra
 ===================
 
-Data: 16/02/2024
-
-.. tags:: 
-
-    Pet
+Publicado em: 16/02/2024
 
 **...**
 
@@ -53,3 +49,9 @@ com menos pêlo, mas acho que o Didi tem ensinado lições muito preciosas sobre
 
 E é isso! Se tiver algo para compartilhar, abre um *issue* na nossa página e vamos conversar! Abraços
 caninos!
+
+*...*
+
+.. tags:: 
+
+    Pet

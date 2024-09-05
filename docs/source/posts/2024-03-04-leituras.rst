@@ -1,11 +1,7 @@
 Leituras de Fevereiro
 =====================
 
-Data: 04/03/2024
-
-.. tags:: 
-
-    Leitura, Opinião
+Publicado em: 04/03/2024
 
 **...**
 
@@ -80,3 +76,9 @@ revezar eles com *Nosey Parker* ou se termino der ler os livros já publicados. 
 
 Você já sabe, mas não custa relembrar! Quer falar comigo sobre este ou os demais *posts*? Abre um 
 `issue <https://github.com/renataakemii/blog/issues>`_ aqui no *GitHub*. Até a próxima |:wave:| |:smile:|
+
+*...*
+
+.. tags:: 
+
+    Leituras

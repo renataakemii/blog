@@ -1,11 +1,7 @@
 Leituras de Abril
 =================
 
-Data: 28/04/2024 
-
-.. tags::
-
-   Leitura, Opinião
+Publicado em: 28/04/2024 
 
 **...**
 
@@ -71,3 +67,9 @@ Você já sabe, mas não custa lembrar que se quiser interagir comigo, é só ab
 `nossa página <https://github.com/renataakemii/renataakemii.github.io/issues>`_ do *GitHub*, viu?
 
 Por hoje eu fico por aqui e nos vemos em breve! |:wave:|
+
+*...*
+
+.. tags::
+
+   Leituras

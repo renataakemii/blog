@@ -1,7 +1,7 @@
 Incidente em Antares
 ====================
 
-Data: 02/02/2024
+Publicado em: 02/02/2024
 
 **...**
 
@@ -52,4 +52,4 @@ Até a próxima 🐶
 
 .. tags:: 
 
-    Leitura
+    Leituras

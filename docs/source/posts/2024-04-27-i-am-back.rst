@@ -1,11 +1,7 @@
 Estou de volta!
 ===============
 
-Data: 27/04/2024
-
-.. tags:: 
-
-    Miscelânia
+Publicado em: 27/04/2024
 
 **...**
 
@@ -36,3 +32,9 @@ Vou ficando por aqui, mas repito, é muito, muito bom estar de volta, agora ness
 
 P.S.: Não custa lembrar, mas se quiser interagir comigo, é só abrir um *issue* na
 `nossa página <https://github.com/renataakemii/renataakemii.github.io/issues>`_ do *GitHub*, viu?
+
+*...*
+
+.. tags:: 
+
+    Miscelânia

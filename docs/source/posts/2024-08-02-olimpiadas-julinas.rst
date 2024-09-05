@@ -1,11 +1,7 @@
 Olimpíadas julinas
 ==================
 
-Data: 02/08/2024
-
-.. tags:: 
-
-   Miscelânia
+Publicado em: 02/08/2024
 
 **...**
 
@@ -113,3 +109,9 @@ acho válido dedicar um tempo para isso aqui, mas pode ser uma discussão em uma
 Eu fico por aqui, mas com nosso recadinho dominical de que este *site* é uma página do *GitHub* então você pode 
 abrir um *issue* para interagir comigo `nesta página <https://github.com/renataakemii/renataakemii.github.io/issues>`_.
 Até a próxima! |:wave:|
+
+*...*
+
+.. tags:: 
+
+   Fim de mês

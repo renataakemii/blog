@@ -1,11 +1,7 @@
 Cozinha Afetiva
 ===============
 
-Data: 11/02/2024
-
-.. tags:: 
-
-    Miscelânia
+Publicado em: 11/02/2024
 
 **...**
 
@@ -38,3 +34,9 @@ dessa reportagem por aqui.
 
 Bem, vou me aquietar por agora, porque esse *post* já está uma semana atrasado e eu perdi um pouco
 o fio da meada. Até a próxima 🐶
+
+*...*
+
+.. tags:: 
+
+    Cozinha

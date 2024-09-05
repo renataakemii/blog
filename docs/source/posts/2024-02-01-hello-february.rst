@@ -1,7 +1,7 @@
 Oi pra você também, fevereiro
 =============================
 
-Data: 01/02/2024
+Publicado em: 01/02/2024
 
 **...**
 
@@ -29,4 +29,4 @@ Fique a vontade para interagir comigo. É só abrir um *issue* na nossa página.
 
 .. tags:: 
     
-    Miscelânia
+    Empolgação de começo de mês

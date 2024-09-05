@@ -1,11 +1,7 @@
 Arrivederci Aprile
 ==================
 
-Data: 29/04/2024
-
-.. tags:: 
-
-   Miscelânia
+Publicado em: 29/04/2024
 
 **...**
 
@@ -67,3 +63,9 @@ Por enquanto é isso! Agradeço a paciência infinita daqueles que podem aparece
 
 Você já sabe, mas não custa lembrar que se quiser interagir comigo, é só abrir um *issue* na
 `nossa página <https://github.com/renataakemii/renataakemii.github.io/issues>`_ do *GitHub*, viu? |:wave:|
+
+*...*
+
+.. tags:: 
+
+   Fim de mês

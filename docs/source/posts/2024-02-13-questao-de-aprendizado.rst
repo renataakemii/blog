@@ -1,11 +1,7 @@
 Tudo na vida é questão de aprendizado
 =====================================
 
-Data: 13/02/2024
-
-.. tags:: 
-
-    Miscelânia
+Publicado em: 13/02/2024
 
 **...**
 
@@ -36,3 +32,9 @@ momento do futuro TBD). Bem, você já sabe, mas não custa lembrar. Se quiser c
 este *post*, abre um *issue* no projeto do GitHub deste blog!
 
 Até a próxima! 🐶
+
+*...*
+
+.. tags:: 
+
+    Miscelânia

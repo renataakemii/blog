@@ -1,11 +1,7 @@
 Até logo, Maio
 ==============
 
-Data: 26/05/2024
-
-.. tags:: 
-
-   Miscelânia
+Publicado em: 26/05/2024
 
 **...**
 
@@ -85,3 +81,9 @@ nessa seção. O *post* com as leituras do mês sai daqui alguns dias. Ele ainda
 
 Eu me despeço de vocês com o aviso de sempre: este *blog* é uma página do *GitHub*! Você pode vir conversar comigo
 abrindo um *issue* aqui na `nossa página <https://github.com/renataakemii/renataakemii.github.io/issues>`_. |:wave:|
+
+*...*
+
+.. tags:: 
+
+   Fim de mês
