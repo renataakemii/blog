@@ -1,7 +1,7 @@
 Novidades visuais no blog!
 ==========================
 
-Publicado em: 04/09/2024
+Publicado em: 05/09/2024
 
 **...**
 
@@ -13,7 +13,7 @@ A parte boa é que este *blog* está com pequenas mudanças visuais que podem fa
 nossas páginas.
 
 A primeira mudança, e a mais boba de todas, é que eu mudei o texto que acompanha a data de 
-publicação dos posts para ``Publicado em``, ao invés de ``Data``. Pareço minimamente mais humana
+publicação dos *posts* para ``Publicado em``, ao invés de ``Data``. Pareço minimamente mais humana
 escrevendo dessa maneira.
 
 A segunda mudança, e a mais relevante, é que agora temos uma nova aba intitulada ``Navegue por assunto``,
@@ -28,4 +28,22 @@ ao assunto que tratam. Por exemplo, as postagens com fechamentos de mês receber
 ``Fim de mês``, o que faz muito mais sentido que miscelânia.
 
 Outra coisa feita, agora de maneira mais estilística, foram algumas correções ortográficas ou no
-código em questão, caso apresentasse 
+código em questão, caso apresentasse algum erro que uma leitura menos atenta capturasse. Adicionei
+também uma extensão para conseguir :strike:`riscar` o texto sem que tivesse que contar com a sorte
+que ele vá renderizar ou não. Agora eu sei que ele vai.
+
+Não sei qual vai ser a próxima ideia mirabolante que eu vou trazer para este *blog*. Por enquanto estou
+bastante satisfeita com essas alterações mais recentes.
+
+Sei que não tivemos postagem com o fechamento do mês de agosto. Ela começou a ser escrita mas foi murchando
+ao longo do caminho. Se me sentir inspirada, ela sai em algum momento.
+
+Eu fico por aqui, mas me conta `aqui <https://github.com/renataakemii/renataakemii.github.io/issues>`_ o
+que você pensa das mudanças que eu fiz no *layout* do site. Se ficaram boas, valeram a pena, facilitaram
+mesmo a vida ou é tudo papo de *coach*. Até a próxima! |:wave:|
+
+*...*
+
+.. tags::
+
+    Miscelânia
