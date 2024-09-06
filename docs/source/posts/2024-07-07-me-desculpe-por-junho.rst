@@ -1,7 +1,7 @@
 Pardonne-moi pour juin
 ======================
 
-**Data**: 07/07/2024 | **Tags**: Miscelânia
+Publicado em: 07/07/2024
 
 **...**
 
@@ -73,3 +73,9 @@ página do *GitHub* então você pode abrir um *issue* para interagir comigo
 `nesta página <https://github.com/renataakemii/renataakemii.github.io/issues>`_ e 2) este mês não tem
 promessa de campanha, mas planejo aparecer aqui mais vezes. Ficamos na torcida por este retorno levar menos
 tempo que o hexa. |:face_with_hand_over_mouth:|
+
+*...*
+
+.. tags:: 
+
+   Fim de mês
